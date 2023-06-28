@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cruts"]
 	path = cruts
 	url = https://github.com/cran/cruts
-	shallow = true
-	registered = true
 [submodule "deepNN"]
 	path = deepNN
 	url = https://github.com/cran/deepNN
-	shallow = true
-	registered = true
 [submodule "lgcp"]
 	path = lgcp
 	url = https://github.com/cran/lgcp
-	shallow = true
-	registered = true
 [submodule "miscFuncs"]
 	path = miscFuncs
 	url = https://github.com/cran/miscFuncs
-	shallow = true
-	registered = true
 [submodule "spatsurv"]
 	path = spatsurv
 	url = https://github.com/cran/spatsurv
-	shallow = true
-	registered = true
