@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cruts"]
-	path = cruts
-	url = https://github.com/cran/cruts
 [submodule "deepNN"]
 	path = deepNN
 	url = https://github.com/cran/deepNN
